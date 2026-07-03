@@ -1,5 +1,6 @@
 import pyttsx3
 import time
+from gtts import gTTS
 
 def speak(text):
     try:
