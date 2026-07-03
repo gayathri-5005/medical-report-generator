@@ -1,0 +1,9 @@
+Flask
+gunicorn
+reportlab
+Pillow
+pytesseract
+google-generativeai
+gTTS
+deep-translator
+python-dotenv
